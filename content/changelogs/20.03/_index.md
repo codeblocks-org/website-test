@@ -485,6 +485,7 @@ Special thanks for their (continuous) support go to:
  * blauzahn
  * Christophe Marc BERTONCINI
  * Commaster
+ * danselmi
  * darmar
  * drzacek
  * Eran Ifrah

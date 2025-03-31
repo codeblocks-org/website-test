@@ -9,6 +9,10 @@ The newest versions can be found [here](/downloads/binaries).
 
 ---
 
+## Release 20.03
+
+Binaries for release 20.03 can be found here: https://sourceforge.net/projects/codeblocks/files/Binaries/20.03
+
 ## Release 17.12
 
 Binaries for release 17.12 can be found here: https://sourceforge.net/projects/codeblocks/files/Binaries/17.12

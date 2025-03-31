@@ -1,16 +1,16 @@
 ---
 title: "Source code"
-date: 2020-03-29
+date: 2025-03-31
 draft: false
 aliases:
   - 25
 ---
 
-If you want to download the source code of Code::Blocks 20.03, here are the links:
+If you want to download the source code of Code::Blocks 25.03, here are the links:
 | File | Download from |
 |------|---------------|
-| codeblocks-20.03.tar.xz | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03.tar.xz) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/20.03/codeblocks-20.03.tar.xz) |
-| codeblocks-20.03.tar.bz2 | [FossHUB](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03.tar.bz2) or [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/20.03/codeblocks-20.03.tar.bz2) |
+| codeblocks_25.03.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) |
+| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) |
 
 For older versions please check [here](/downloads/source/older).
 
@@ -26,10 +26,9 @@ We provide a (Doxygen based) documentation of the Code::Blocks SDK to developers
 
 | File | Download from |
 |------|---------------|
-| sdk.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/20.03/sdk.chm) |
-| wxSmith.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/20.03/wxSmith.chm) |
-| codecompletion.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/20.03/codecompletion.chm) |
-| codecompletion_full.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/20.03/codecompletion_full.chm) |
+| sdk.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/sdk.chm) |
+| wxSmith.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/wxSmith.chm) |
+| codecompletion.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codecompletion.chm) |
 
 ---
 
@@ -39,7 +38,7 @@ We provide a (Doxygen based) documentation of the Code::Blocks SDK to developers
 
 Note that wxWidgets for Windows comes compiled in a shared, monolithic, release, unicode flavour, compiled like that:
 
-    mingw32-make -f makefile.gcc SHARED=1 MONOLITHIC=1 BUILD=release UNICODE=1 VENDOR=cb
+    mingw32-make -f makefile.gcc SHARED=1 MONOLITHIC=1 BUILD=release UNICODE=1
 
 ---
 
