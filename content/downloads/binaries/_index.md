@@ -32,7 +32,7 @@ Please select a setup package depending on your platform:
 
 **NOTE**: The codeblocks-25.03-setup.exe file includes Code::Blocks with all plugins. The codeblocks-25.03-setup-nonadmin.exe file is provided for convenience to users that do not have administrator rights on their machine(s).
 
-**NOTE**: The codeblocks-25.03mingw-setup.exe file includes additionally the GCC/G++/GFortran compiler and GDB debugger from [MinGW-W64 project](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/) (version 8.1.0, 32/64 bit, SEH).
+**NOTE**: The codeblocks-25.03mingw-setup.exe file includes additionally the GCC/G++/GFortran/Clang compiler and GDB debugger from [WinLibs project](https://winlibs.com/) (version 14.2.0, 32/64 bit).
 
 **NOTE**: The codeblocks-25.03(mingw)-nosetup.zip files are provided for convenience to users that are allergic against installers. However, it will not allow to select plugins / features to install (it includes everything) and not create any menu shortcuts. For the "installation" you are on your own.
 
