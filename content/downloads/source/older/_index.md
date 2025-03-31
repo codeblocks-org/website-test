@@ -5,6 +5,14 @@ draft: false
 aliases:
   - 6
 ---
+Should you want to download the source code of Code::Blocks **20.03**, here are the links:
+
+https://sourceforge.net/projects/codeblocks/files/Sources/20.03
+
+Should you want to download the source code of Code::Blocks **17.12**, here are the links:
+
+https://sourceforge.net/projects/codeblocks/files/Sources/17.12
+
 Should you want to download the source code of Code::Blocks **13.12**, here are the links:
 
 https://sourceforge.net/projects/codeblocks/files/Sources/13.12

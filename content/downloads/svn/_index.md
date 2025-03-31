@@ -38,4 +38,4 @@ Our repository uses the standard layout proposed by Subversion. This means there
 
 If you want to access the source code of stable releases, you can find it under the tags directory. For example, the source code of Code::Blocks 20.03 can be accessed in tags/20.03. So the command-line to retrieve it using the SVN protocol would be:
 
-    svn checkout svn://svn.code.sf.net/p/codeblocks/code/tags/20.03
+    svn checkout svn://svn.code.sf.net/p/codeblocks/code/tags/25.03
