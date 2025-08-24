@@ -25,11 +25,11 @@ Please select a setup package depending on your platform:
 ## ![](/images/os/windows48.png#logo) Microsoft Windows (64 bit, default)
 | File 	                              | Download from                                                                                                          |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| codeblocks-25.03-setup.exe          | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03-setup.exe) |
-| codeblocks-25.03-setup-nonadmin.exe | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup-nonadmin.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03-setup-nonadmin.exe) |
-| codeblocks-25.03-nosetup.zip        | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03-nosetup.zip) |
-| codeblocks-25.03mingw-setup.exe     | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03mingw-setup.exe) |
-| codeblocks-25.03mingw-nosetup.zip   | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03mingw-nosetup.zip) |
+| codeblocks-25.03-setup.exe          | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03-setup.exe) |
+| codeblocks-25.03-setup-nonadmin.exe | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup-nonadmin.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03-setup-nonadmin.exe) |
+| codeblocks-25.03-nosetup.zip        | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03-nosetup.zip) |
+| codeblocks-25.03mingw-setup.exe     | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03mingw-setup.exe) |
+| codeblocks-25.03mingw-nosetup.zip   | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03mingw-nosetup.zip) |
 
 **NOTE**: The codeblocks-25.03-setup.exe file includes Code::Blocks with all plugins. The codeblocks-25.03-setup-nonadmin.exe file is provided for convenience to users that do not have administrator rights on their machine(s).
 
@@ -42,21 +42,21 @@ Please select a setup package depending on your platform:
 ## ![](/images/os/windows48.png#logo) Microsoft Windows (32 bit, special)
 | File 	                              | Download from                                                                                                          |
 |-------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| codeblocks-25.03-setup.exe          | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03-setup.exe) |
-| codeblocks-25.03-setup-nonadmin.exe | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-setup-nonadmin.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03-setup-nonadmin.exe) |
-| codeblocks-25.03-nosetup.zip        | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03-nosetup.zip) |
-| codeblocks-25.03mingw-setup.exe     | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03mingw-setup.exe) |
-| codeblocks-25.03mingw-nosetup.zip   | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks-25.03mingw-32bit-nosetup.zip) |
+| codeblocks-25.03-setup.exe          | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03-setup.exe) |
+| codeblocks-25.03-setup-nonadmin.exe | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-setup-nonadmin.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03-setup-nonadmin.exe) |
+| codeblocks-25.03-nosetup.zip        | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03-nosetup.zip) |
+| codeblocks-25.03mingw-setup.exe     | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-setup.exe) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03mingw-setup.exe) |
+| codeblocks-25.03mingw-nosetup.zip   | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-nosetup.zip) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks-25.03mingw-32bit-nosetup.zip) |
 
 ---
 
 ## ![](/images/os/linux48.png#logo) Linux 32 and 64-bit
 | Distro                            | File                                   | Download from                                                                    |
 |-----------------------------------|----------------------------------------|----------------------------------------------------------------------------------|
-| ![](/images/os/debian48.png#logo) | codeblocks_25.03_amd64_debian11.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_amd64_debian11.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03_amd64_debian11.tar.xz) |
-| ![](/images/os/debian48.png#logo) | codeblocks_25.03_amd64_debian12.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_amd64_debian12.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03_amd64_debian12.tar.xz) |
-| ![](/images/os/debian48.png#logo) | codeblocks_25.03_i386_debian11.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_i386_debian11.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03_i386_debian11.tar.xz) |
-| ![](/images/os/debian48.png#logo) | codeblocks_25.03_i386_debian12.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_i386_debian12.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03_i386_debian12.tar.xz) |
+| ![](/images/os/debian48.png#logo) | codeblocks_25.03_amd64_debian11.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_amd64_debian11.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks_25.03_amd64_debian11.tar.xz) |
+| ![](/images/os/debian48.png#logo) | codeblocks_25.03_amd64_debian12.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_amd64_debian12.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks_25.03_amd64_debian12.tar.xz) |
+| ![](/images/os/debian48.png#logo) | codeblocks_25.03_i386_debian11.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_i386_debian11.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks_25.03_i386_debian11.tar.xz) |
+| ![](/images/os/debian48.png#logo) | codeblocks_25.03_i386_debian12.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Linux/codeblocks_25.03_i386_debian12.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks_25.03_i386_debian12.tar.xz) |
 
 **Note**: The Linux packages above are compressed archives (tar, tar.xz or tar.bz2). When you decompress the package you downloaded on your system, you will find all the .rpm or .deb packages required to install Code::Blocks.
 
@@ -67,7 +67,7 @@ Please select a setup package depending on your platform:
 ## ![](/images/os/apple48.png#logo) Mac
 | File                                        | Download from                                                                                                                     |
 |---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| CodeBlocks-25.03_macOS-11.7_x64-wx3.2.6.dmg | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/13.12/Mac/CodeBlocks-25.03_macOS-11.7_x64-wx3.2.6.dmg) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=CodeBlocks-25.03_macOS-11.7_x64-wx3.2.6.dmg) |
+| CodeBlocks-25.03_macOS-11.7_x64-wx3.2.6.dmg | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/13.12/Mac/CodeBlocks-25.03_macOS-11.7_x64-wx3.2.6.dmg) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=CodeBlocks-25.03_macOS-11.7_x64-wx3.2.6.dmg) |
 
 **NOTES**:
 
