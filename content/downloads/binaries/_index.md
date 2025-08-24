@@ -26,9 +26,9 @@ Please select a setup package depending on your platform:
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | codeblocks-25.03-setup.exe                 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup.exe) |
 | codeblocks-25.03-setup-nonadmin.exe        | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-setup-nonadmin.exe) |
-| codeblocks-25.03-nosetup.zip               | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-nosetup.exe) |
+| codeblocks-25.03-nosetup.zip               | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03-nosetup.zip) |
 | codeblocks-25.03mingw-setup.exe            | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-setup.exe) |
-| codeblocks-25.03mingw-nosetup.zip          | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-nosetup.exe) |
+| codeblocks-25.03mingw-nosetup.zip          | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/codeblocks-25.03mingw-nosetup.zip) |
 
 **NOTE**: The codeblocks-25.03-setup.exe file includes Code::Blocks with all plugins. The codeblocks-25.03-setup-nonadmin.exe file is provided for convenience to users that do not have administrator rights on their machine(s).
 
@@ -43,9 +43,9 @@ Please select a setup package depending on your platform:
 |--------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | codeblocks-25.03-setup.exe           | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-setup.exe) |
 | codeblocks-25.03-setup-nonadmin.exe  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-setup-nonadmin.exe) |
-| codeblocks-25.03-nosetup.zip         | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-nosetup.exe) |
+| codeblocks-25.03-nosetup.zip         | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03-32bit-nosetup.zip) |
 | codeblocks-25.03mingw-setup.exe      | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-setup.exe) |
-| codeblocks-25.03mingw-nosetup.zip    | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-nosetup.exe) |
+| codeblocks-25.03mingw-nosetup.zip    | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Binaries/25.03/Windows/32bit/codeblocks-25.03mingw-32bit-nosetup.zip) |
 
 ---
 
