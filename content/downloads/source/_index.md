@@ -9,8 +9,8 @@ aliases:
 If you want to download the source code of Code::Blocks 25.03, here are the links:
 | File                     | Download from                                                                                            |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
-| codeblocks_25.03.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.xz) |
-| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.bz2) |
+| codeblocks_25.03.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks_25.03.tar.xz) |
+| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?get=codeblocks_25.03.tar.bz2) |
 
 For older versions please check [here](/downloads/source/older).
 
