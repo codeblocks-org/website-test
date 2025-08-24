@@ -7,10 +7,10 @@ aliases:
 ---
 
 If you want to download the source code of Code::Blocks 25.03, here are the links:
-| File                    | Download from                                                                                              |
-|-------------------------|------------------------------------------------------------------------------------------------------------|
-| codeblocks_25.03.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.xz) |
-| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.bz2) |
+| File                     | Download from                                                                                            |
+|--------------------------|----------------------------------------------------------------------------------------------------------|
+| codeblocks_25.03.tar.xz  | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.xz) |
+| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) or [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.bz2) |
 
 For older versions please check [here](/downloads/source/older).
 
@@ -24,10 +24,10 @@ We provide a (Doxygen based) documentation of the Code::Blocks SDK to developers
  * the SDK for developing add-ons for wxSmith, the GUI design tool in Code::Blocks (wxSmith.chm) and
  * the documentation for the CodeCompletion plugin in case you want to extend it:
 
-| File | Download from |
-|------|---------------|
-| sdk.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/sdk.chm) |
-| wxSmith.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/wxSmith.chm) |
+| File               | Download from                                                                              |
+|--------------------|--------------------------------------------------------------------------------------------|
+| sdk.chm            | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/sdk.chm) |
+| wxSmith.chm        | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/wxSmith.chm) |
 | codecompletion.chm | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codecompletion.chm) |
 
 ---
