@@ -1,16 +1,16 @@
 ---
 title: "Source code"
-date: 2025-03-31
+date: 2025-08-24
 draft: false
 aliases:
   - 25
 ---
 
 If you want to download the source code of Code::Blocks 25.03, here are the links:
-| File | Download from |
-|------|---------------|
-| codeblocks_25.03.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) |
-| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) |
+| File                    | Download from                                                                                              |
+|-------------------------|------------------------------------------------------------------------------------------------------------|
+| codeblocks_25.03.tar.xz | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.xz) [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.xz) |
+| codeblocks_25.03.tar.bz2 | [Sourceforge.net](https://sourceforge.net/projects/codeblocks/files/Sources/25.03/codeblocks_25.03.tar.bz2) [dAppCDN.com](https://dappcdn.com/download/devtools/code-blocks?q=codeblocks_25.03.tar.bz2) |
 
 For older versions please check [here](/downloads/source/older).
 
