@@ -2,7 +2,7 @@ baseURL: "https://www.codeblocks.org"
 languageCode: "en-us"
 title: "Code::Blocks"
 theme: "personal-web"
-copyright: "©2020 Code::Blocks"
+copyright: "©2026 Code::Blocks"
 enableEmoji: true
 enableRobotsTXT: true
 pygmentsUseClasses: true
@@ -103,4 +103,3 @@ menus:
       title: "News section"
       url: "/post/"
       weight: -120
-
