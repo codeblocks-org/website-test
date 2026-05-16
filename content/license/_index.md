@@ -13,4 +13,8 @@ Click [here](/license/lgpl) to read the full license text of GNU Lesser General 
 
 ---
 
+Code::Blocks is provided to you by Martin Halle, Yiannis Madravellos, Thomas Denk, Lieven de Cock, Miguel Gimenez, Pecan Heber et al.
+
+---
+
 ## See also
